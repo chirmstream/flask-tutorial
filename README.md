@@ -1,5 +1,7 @@
 # Flask-Tutorial
 
+Flask needs to be updated to 2.2.x!!
+
 Before running flask application
 ---
     export FLASK_APP=hello
