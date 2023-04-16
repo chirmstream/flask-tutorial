@@ -11,3 +11,8 @@ Before running flask application
     export FLASK_APP=hello
     export FLASK_ENV=development
     flask run
+
+
+Define and Access Database
+Make sure you are in flask-tutorial root folder
+flask --app flaskr init-db
